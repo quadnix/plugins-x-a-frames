@@ -1,7 +1,7 @@
 {
   "author": "Rahul Chaudhary",
-  "name": "pots-a-frame-examples",
-  "description": "A-Frame Examples",
+  "name": "plugins-x-a-frames",
+  "description": "A-Frame examples for Plugins by Quadnix.",
   "private": true,
   "version": "0.0.1",
   "dependencies": {
@@ -9,6 +9,6 @@
     "aframe-text-geometry-component": "~0.5.1",
     "bootstrap": "~4.1.3",
     "jquery": "~3.3.1",
-    "popper.js": "~1.14.4"
+    "popper.js": "~1.14.6"
   }
 }
